@@ -1,0 +1,9 @@
+Future features:
+- pass list of coin symbols 
+
+
+Stages:
+
+1. Grab info from CoinMarketCap 
+2. Notify user about the price
+3. Automatically buy or sell coins
